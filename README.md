@@ -1,16 +1,24 @@
-## Hi there 👋
+# DreamTech30
+- 현재 목표: 금융 && AI
 
-<!--
-**dreamtech30g/dreamtech30g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 자격증
 
-Here are some ideas to get you started:
+| No | To Do | Detail | Begin | End |  Check(✅) | 
+| :--: | :--: | :--: | :--: | :--: | :--: | 
+| 001 | 전산회계 2급 | 자격증 시험 준비 | 2026.10.01 |  |  | 
+| 002 | 전산회계 1급 | 자격증 시험 준비 |  |  |  | 
+| 003 | 전산세무 2급 | 자격증 시험 준비 |  |  |  | 
+| 004 | TOEIC Speaking | 최소 IH 목표 |  |  |  | 
+| 005 | OPIc | 최소 IH 목표 |  |  |  | 
+| 006 | 정보보안기사 |  |  |  |  | 
+| 007 | 정보통신기사 |  |  |  |  | 
+| 008 | 전기기사 |  |  |  |  | 
+| 009 |  |  |  |  |  | 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 도서
+
+| No | Title | Author | Begin | End | 평점(✅) | 
+| :--: | :--: | :--: | :--: | :--: | :--: | 
+| 001 | 과학이란 무엇인가 | 리처드 파인만 | - | - | ⭐️⭐️⭐️⭐️⭐️(✅) | 
+| 002 | 투자에 대한 생각 | 하워드 막스 | 2026.10.24 |  |  | 
+| 003 |  |  |  |  |  | 
